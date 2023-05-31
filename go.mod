@@ -1,4 +1,4 @@
-module github.com/gpmd/bigcommerce-api-go
+module github.com/launchscout/bigcommerce-api-go
 
 go 1.17
 
