@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	"github.com/gpmd/bigcommerce-api-go"
+	"github.com/launchscout/bigcommerce-api-go"
 )
 
 type CustomerClient struct {
